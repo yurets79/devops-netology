@@ -1,2 +1,2 @@
 # devops-netology
-decsys-22
+devsys-22
